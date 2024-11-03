@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>image689_jpg.rf.f87f80928543913b7f9cd3f7db53fd4b.jpg</filename>
+	<path>C:\Users\Dell\Downloads\tfod\models\research\images\train\image689_jpg.rf.f87f80928543913b7f9cd3f7db53fd4b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>112</ymin>
+			<xmax>423</xmax>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+</annotation>

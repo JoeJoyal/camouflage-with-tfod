@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>image648_jpg.rf.1374f5ed6ca180e64c3c4c5c775acb1b.jpg</filename>
+	<path>C:\Users\Dell\Downloads\tfod\models\research\images\test\image648_jpg.rf.1374f5ed6ca180e64c3c4c5c775acb1b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>306</xmin>
+			<ymin>64</ymin>
+			<xmax>515</xmax>
+			<ymax>509</ymax>
+		</bndbox>
+	</object>
+</annotation>

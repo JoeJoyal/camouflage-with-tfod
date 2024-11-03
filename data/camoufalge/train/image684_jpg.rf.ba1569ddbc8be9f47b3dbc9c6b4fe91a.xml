@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>image684_jpg.rf.ba1569ddbc8be9f47b3dbc9c6b4fe91a.jpg</filename>
+	<path>C:\Users\Dell\Downloads\tfod\models\research\images\train\image684_jpg.rf.ba1569ddbc8be9f47b3dbc9c6b4fe91a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Camouflage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>26</ymin>
+			<xmax>599</xmax>
+			<ymax>620</ymax>
+		</bndbox>
+	</object>
+</annotation>

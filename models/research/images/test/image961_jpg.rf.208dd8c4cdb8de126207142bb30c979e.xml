@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>image961_jpg.rf.208dd8c4cdb8de126207142bb30c979e.jpg</filename>
+	<path>C:\Users\Dell\Downloads\tfod\models\research\images\test\image961_jpg.rf.208dd8c4cdb8de126207142bb30c979e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Camouflage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>230</ymin>
+			<xmax>284</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>
