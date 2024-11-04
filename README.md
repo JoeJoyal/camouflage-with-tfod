@@ -1,6 +1,6 @@
 # camouflage-with-tfod
 
-<font color="green"> Configuration steps for TensorFlow object detection </font>
+`Configuration steps for TensorFlow object detection`
 
 `STEP-1 Download the following content-`
 
@@ -11,31 +11,36 @@
 
 Before extraction, you should have the following compressed files.
 
-<font color="green"> STEP-2 Extract all the above zip files into tfod folder and remove the compressed files-` </font>
+`STEP-2 Extract all the above zip files into tfod folder and remove the compressed files-`
 
 
-<font color="green">STEP-3 Creating virtual env using conda-` </font>
+`STEP-3 Creating virtual env using conda-`
 
 `Commands`
+
 for specific python version
+
 `conda create -n your_env_name python=3.7`
+
 activate the environment
+
 `conda activate your_env_name`
 
-<font color="green">STEP-4 Install the following packages in your new environment-</font>
-for GPU
+`STEP-4 Install the following packages in your new environment-`
+
+**for GPU**
 
 `pip install pillow lxml Cython contextlib2 jupyter matplotlib pandas opencv-python tensorflow-gpu==1.15.0`
 
-for CPU only
+**for CPU only**
 
 `pip install pillow lxml Cython contextlib2 jupyter matplotlib pandas opencv-python tensorflow==1.15.0`
 
-<font color="green">STEP-5 Install protobuf using conda package manager-</font>
+`STEP-5 Install protobuf using conda package manager-`
 
 `conda install -c anaconda protobuf`
 
-<font color="green">STEP-6 For protobuff to .py conversion download from a tool from here-</font>
+`STEP-6 For protobuff to .py conversion download from a tool from here-`
 
 For windows -> download source for other versions and OS - click here
 
