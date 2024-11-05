@@ -58,4 +58,4 @@ Now in the research folder run the following command-
 
 **Result**
 
-![camouflage-001](‪C:\Users\Dell\Downloads\camouflage-001.png)
+![camouflage](./Inference/camouflage-001.png)
