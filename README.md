@@ -55,3 +55,7 @@ Now in the research folder run the following command-
 
 **For Windows**
 `protoc object_detection/protos/*.proto --python_out=.`
+
+**Result**
+
+![camouflage-001](‪C:\Users\Dell\Downloads\camouflage-001.png)
