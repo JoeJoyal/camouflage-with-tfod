@@ -58,4 +58,10 @@ Now in the research folder run the following command-
 
 **Result**
 
-![camouflage](./Inference/camouflage-001.png)
+![camouflage-001](./Inference/camouflage-001.png)
+
+![camouflage-002](./Inference/camouflage-002.png)
+
+![camouflage-003](./Inference/camouflage-003.png)
+
+![camouflage-004](./Inference/camouflage-004.png)
